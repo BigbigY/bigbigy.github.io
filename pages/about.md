@@ -23,11 +23,13 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 -->
+
 <p>
 	<ul>
 		<li>邮箱：bighug.top@gmail.com</li>
 	</ul>
 <img src="http://ocppiicaw.bkt.clouddn.com/me.jpg"  alt="扫我微信" />
+
 ## Skill Keywords
 
 {% for category in site.data.skills %}
