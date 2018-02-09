@@ -19,10 +19,10 @@ permalink: /about/
 
 ## 联系
 
-<!--{% for website in site.data.social %}
+{% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
--->
+
 
 	<ul>
 		<li>邮箱：bighug.top@gmail.com</li>
