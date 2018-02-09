@@ -4,9 +4,9 @@
 baseurl:
 url: http://bighug.top
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
+title: Luck's Blog
+subtitle: "这个世界上失败只有一种，那就是半途而废."
+description: "王阳阳的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -19,8 +19,8 @@ author: Zhuang Ma
 organization: zkh360.com
 organization_url: http://www.zkh360.com
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: Beijing, China
+email: bighug.top@gmail.com
 
 # ---------------- #
 #    Navigation    #
