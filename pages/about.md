@@ -9,6 +9,7 @@ permalink: /about/
 ---
 
 Hey，我是<strong>Luck</strong> <br>
+
 		<li>毕业于南少林，擅长打野升级.</li>
 		<li>喜欢Linux，热爱开源。偶尔LOL ID：(网四：俩小孩辩日),王者农药</li>
 		<li>梦想：做一个有钱和有品味的人，实在不行，只做个有钱人也可以</li>
