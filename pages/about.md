@@ -8,8 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-
-    Hey，我是<strong>Luck</strong><br>
+    <p>Hey，我是<strong>Luck</strong><br>
 	<ul>
 		<li>毕业于南少林，擅长打野升级.</li>
 		<li>喜欢Linux，热爱开源。偶尔LOL ID：(网四：俩小孩辩日),王者农药</li>
