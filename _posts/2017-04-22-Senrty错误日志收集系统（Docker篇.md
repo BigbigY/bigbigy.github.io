@@ -1,7 +1,7 @@
 ---
 title: Senrty错误日志收集系统（Docker篇）
 tags: [Senrty]
-categories: 日志
+categories: 自动化运维工具
 type: "categories"
 author: "luck"
 header-img: "img/home-bg-art.jpg"

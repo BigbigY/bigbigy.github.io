@@ -1,7 +1,7 @@
 ---
 title: 一步步构建 Python 实时日志平台 Sentry
 tags: [Senrty]
-categories: 日志
+categories: 自动化运维工具
 type: "categories"
 author: "luck"
 header-img: "img/home-bg-art.jpg"

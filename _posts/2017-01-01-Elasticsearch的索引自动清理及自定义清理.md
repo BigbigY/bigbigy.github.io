@@ -1,7 +1,7 @@
 ---
 title: Elasticsearch的索引清理及自定义清理
 tags: [ELK,slasticsearch]
-categories: 日志
+categories: 自动化运维工具
 type: "categories"
 ---
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;近发现elasticsearch近期索引文件大的吓人，清理了下之前的索引文件，发现服务器性能大大的减轻了一半，想一直保留近一个月的索引文件，但是又不想每个月手动清楚，在此写了一个小脚本
