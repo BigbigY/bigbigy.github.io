@@ -97,13 +97,13 @@ gitment:
         client_id: 9748e9817238291b4617
         client_secret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
 # https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: bigbigy
-    repo: bigbigy.github.io
-    clientID: 9748e9817238291b4617
-    clientSecret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
+#gitalk:
+#    owner: bigbigy
+#    repo: bigbigy.github.io
+#    clientID: 9748e9817238291b4617
+#    clientSecret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+#lazy_load_disqus : false
 
 # ---------------- #
 #    Analytics     #
