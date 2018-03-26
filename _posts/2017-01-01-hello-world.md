@@ -1,7 +1,7 @@
 ---
 title: 人生最重要的一点是，永远不要迷失自己。
 tags: 励志
-categories: 每日一激
+categories: 鸡汤
 type: "categories"
 ---
 
