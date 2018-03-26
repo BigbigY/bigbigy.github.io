@@ -16,12 +16,6 @@ permalink: /about/
 - 梦想：做一个有钱和有品味的人，实在不行，只做个有钱人也可以
 - 目的：分享工作中的一些经验以及学习到的一些技能，在下笔拙，但非常愿意和大家分享一些干货。有什么困难尽管跟我说，我会尽自己最大能力.
 
-## 联系
-
-- 邮箱：bighug.top@gmail.com
-
-<img src="http://ocppiicaw.bkt.clouddn.com/me.jpg"  alt="扫我微信" />
-
 ## Skill Keywords
 
 {% for category in site.data.skills %}
@@ -32,3 +26,9 @@ permalink: /about/
 {% endfor %}
 </div>
 {% endfor %}
+
+## 联系
+
+- 邮箱：bighug.top@gmail.com
+
+<img src="http://ocppiicaw.bkt.clouddn.com/me.jpg"  alt="扫我微信" />
