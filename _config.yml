@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Luck's Blog
 subtitle: "这个世界上失败只有一种，那就是半途而废."
 description: "王阳阳的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: luck,bigbigY,Devops
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -91,17 +91,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: login
-    repo: blog-comments
+    owner: bigbigylogin
+    repo: bigbigy.github.io
     oauth:
         client_id: 9748e9817238291b4617
         client_secret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: bigbigylogin
+    repo: bigbigy.github.io
+    clientID: 9748e9817238291b4617
+    clientSecret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
