@@ -1,7 +1,7 @@
 ---
 title: 企业级wiki之confluence完美破解与汉化
 tags: confluence
-categories: wiki
+categories: 产品工具
 type: "categories"
 ---
 

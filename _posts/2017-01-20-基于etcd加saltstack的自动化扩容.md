@@ -1,7 +1,7 @@
 ---
 title: 基于etcd加saltstack的自动化扩容
 tags: [etcd,saltstack,自动化]
-categories: 自动化
+categories: 自动化运维工具
 type: "categories"
 author: "luck"
 header-img: "img/contact-bg.jpg"

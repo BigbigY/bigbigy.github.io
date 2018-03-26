@@ -1,7 +1,7 @@
 ---
 title: 3-Elastic stack之Logstach
 tags: [Elastic stack,Logstach]
-categories: 日志搜索
+categories: 自动化运维工具
 type: "categories"
 author: "luck"
 header-img: "img/post-bg-e2e-ux.jpg"

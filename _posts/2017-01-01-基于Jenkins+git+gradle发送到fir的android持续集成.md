@@ -1,7 +1,7 @@
 ---
 title: 基于Jenkins+git+gradle发送到fir的android持续集成
 tags: jenkins
-categories: 持续集成
+categories: CICD
 type: "categories"
 ---
 

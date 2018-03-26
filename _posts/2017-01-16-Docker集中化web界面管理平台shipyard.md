@@ -1,7 +1,7 @@
 ---
 title: Docker集中化web界面管理平台shipyard
 tags: [docker,shipyar]
-categories: docker
+categories: 微服务与容器
 type: "categories"
 author: "luck"
 header-img: "img/contact-bg.jpg"

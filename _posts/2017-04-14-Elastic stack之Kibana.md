@@ -1,7 +1,7 @@
 ---
 title: 5-Elastic stack之Kibana
 tags: [Elastic stack,Kibana]
-categories: 日志搜索
+categories: 自动化运维工具
 type: "categories"
 author: "luck"
 header-img: "img/post-bg-e2e-ux.jpg"
