@@ -31,4 +31,4 @@ permalink: /about/
 
 - 邮箱：bighug.top@gmail.com
 
-<img src="http://ocppiicaw.bkt.clouddn.com/me.jpg"  alt="扫我微信" />
+- <img src="http://ocppiicaw.bkt.clouddn.com/me.jpg"  alt="扫我微信" />
