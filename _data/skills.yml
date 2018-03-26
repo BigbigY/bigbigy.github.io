@@ -1,19 +1,45 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
+      - Go
       - Python
-      - Design Patterns
+      - Shell
 
-- name: Mobile Developer Keywords
+- name: DevOps Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - Gitlab
+      - Gerrit
+      - Jenkins/jenkins X
+      - Filebeat
+      - Logstash
+      - Elasticsearch
+      - Kibana
+      - Grafana
+      - Jumpserver
+      - Rap
+      - Cat
+      - Falcon
+      - ldap
+      - Confluence
+      - Jira
+      - Nginx/tengine
+      - Tomcat
+      - Disconf
+      - Prometheus
+      - Docker
+      - Kubernetes
+      - Harbor
+      - RabbitMQ
+      - Kafka
+      - Redis
+      - Mysql
+      - traefik
 
-- name: Windows Developer Keywords
+- name: System Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Windows
+      - Centos
+      - Ubuntu
+      - Debian
+      - Redhat
+      - Gentoo
+      - Fedora
