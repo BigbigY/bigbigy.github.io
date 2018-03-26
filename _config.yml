@@ -91,14 +91,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: bigbigylogin
+    owner: bigbigy
     repo: bigbigy.github.io
     oauth:
         client_id: 9748e9817238291b4617
         client_secret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: bigbigylogin
+    owner: bigbigy
     repo: bigbigy.github.io
     clientID: 9748e9817238291b4617
     clientSecret: 433917c48e3b30aefbfae545e6cbf3ec1d8d8912
