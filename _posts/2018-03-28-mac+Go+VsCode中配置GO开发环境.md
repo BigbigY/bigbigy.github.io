@@ -114,3 +114,6 @@ go install github.com/cweill/gotests/gotests
 ```
 
 这样```vscode```下```go```开发需要安装的插件都已经安装成功
+
+#### 创建相应目录
+![](http://ocppiicaw.bkt.clouddn.com/image/golang/vscode2.png)
