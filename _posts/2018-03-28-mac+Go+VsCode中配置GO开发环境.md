@@ -1,5 +1,5 @@
 ---
-title: Go语言初识
+title: Mac+Go+VsCode中配置Go开发环境
 tags: [Go]
 categories: Go语言成长之路
 type: "categories"
