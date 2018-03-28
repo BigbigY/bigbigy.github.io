@@ -24,6 +24,12 @@ Harbor是一个用于存储和分发Docker镜像的企业级Registry服务器，
 - docker-compose 1.6.0+
 
 # 安装[docker ce](https://docs.docker.com/engine/installation/linux/centos/)版
+```
+$ yum install -y yum-utils device-mapper-persistent-data lvm2
+$ yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+$ yum -y install docker-ce-17.12.0.ce-1.el7.centos
+$ systemctl restart docker
+```
 
 # docker-compose install
 ```
