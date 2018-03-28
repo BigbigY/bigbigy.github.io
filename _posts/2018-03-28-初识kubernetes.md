@@ -12,7 +12,7 @@ author: "luck"
 > Kubernetes（简称k8s，命名由来是因为k与s中间有8个字母）是Google基于内部Borg开源的容器编排引擎，它支持自动化部署、大规模可伸缩、应用容器化管理。我们在完成一个应用程序的开发时，需要冗余部署该应用的多个实例，同时需要支持对应用的请求进行负载均衡，在Kubernetes中，我们可以把这个应用的多个实例分别启动一个容器，每个容器里面运行一个应用实例，然后通过内置的负载均衡策略，实现对这一组应用实例的管理、发现、访问，而这些细节都不需要应用开发和运维人员去进行复杂的手工配置和处理。
 
 
-<video class="wp-video-shortcode" id="video-227-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4?_=1" /><a href="https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4">https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4</a></video></div>
+<div><video class="wp-video-shortcode" id="video-227-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4?_=1" /><a href="https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4">https://dn-linuxcn.qbox.me/The%20Illustrated%20Children%27s%20Guide%20to%20Kubernetes-4ht22ReBjno.mp4</a></video></div>
 
 # 基本概念
 
