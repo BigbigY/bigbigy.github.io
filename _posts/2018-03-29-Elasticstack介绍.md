@@ -7,7 +7,7 @@ author: "luck"
 
 ---
 
-#简介
+# 简介
 
 [Elastic Stack](https://www.elastic.co/start)是```ELK```日志系统的官方称呼，其实并不是一款软件，而是一整套解决方案，是三个软件产品的首字母缩写```Elasticsearch```、```Logstash```、```Kibana```。
 
