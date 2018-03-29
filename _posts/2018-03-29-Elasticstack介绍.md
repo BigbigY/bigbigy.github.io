@@ -45,10 +45,10 @@ author: "luck"
 
 
 # FQA
-[elastic 中文社区](https://elasticsearch.cn/)
-[github elasticsearch issues](https://github.com/elastic/elasticsearch/issues)
-[github logstash issues](https://github.com/elastic/logstash/issues)
-[github kibana issues](https://github.com/elastic/kibana/issues)
+- [elastic 中文社区](https://elasticsearch.cn/)
+- [github elasticsearch issues](https://github.com/elastic/elasticsearch/issues)
+- [github logstash issues](https://github.com/elastic/logstash/issues)
+- [github kibana issues](https://github.com/elastic/kibana/issues)
 
 
 
