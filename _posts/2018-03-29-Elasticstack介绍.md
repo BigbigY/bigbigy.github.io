@@ -1,7 +1,7 @@
 ---
 title: Elastic stack介绍
 tags: [日志]
-categories: Elastic Stack 从入门到实践
+categories: ElasticStack从入门到实践
 type: "categories"
 author: "luck"
 
