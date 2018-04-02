@@ -390,8 +390,6 @@ kubectl config use-context kubernetes
 ### Token auth file
 Token可以是任意的包含128 bit的字符串，可以使用安全的随机数发生器生成。
 ```
-$ head -c 16 /dev/urandom | od -An -t x | tr -d ' '
-$ vim /etc/profile.d/k8s_env.sh
 BOOTSTRAP_TOKEN="f12b6181f97c303ae8a849edb2fe2b57"
 ```
 
@@ -406,6 +404,7 @@ cp token.csv /etc/kubernetes/
 
 ## 创建 kubelet bootstrapping kubeconfig 文件
 ```
+export KUBE_APISERVER="https://10.80.231.151:6443"
 cd /etc/kubernetes
 # 设置集群参数
 kubectl config set-cluster kubernetes \
@@ -460,4 +459,5 @@ kubectl config use-context default --kubeconfig=kube-proxy.kubeconfig
 scp bootstrap.kubeconfig kube-proxy.kubeconfig hz-k8s-cluster-n02:/etc/kubernetes/
 scp bootstrap.kubeconfig kube-proxy.kubeconfig hz-k8s-cluster-n03:/etc/kubernetes/
 ```
+
 
