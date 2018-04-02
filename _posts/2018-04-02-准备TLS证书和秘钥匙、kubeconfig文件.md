@@ -50,7 +50,7 @@ author: "luck"
 #!/usr/bin/bash
 
 # TLS Bootstrapping 使用的 Token，可以使用命令 head -c 16 /dev/urandom | od -An -t x | tr -d ' ' 生成
-BOOTSTRAP_TOKEN="41f7e4ba8b7be874fcff18bf5cf41a7c"
+BOOTSTRAP_TOKEN="f12b6181f97c303ae8a849edb2fe2b57"
 
 # 最好使用 主机未用的网段 来定义服务网段和 Pod 网段
 
