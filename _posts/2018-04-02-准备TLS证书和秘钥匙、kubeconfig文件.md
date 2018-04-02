@@ -1,6 +1,6 @@
 ---
 title: 准备TLS证书和秘钥匙、kubeconfig文件
-tags: [Go]
+tags: [k8s]
 categories: 基于k8s的私有容器云从0到1的建设之路
 type: "categories"
 author: "luck"
